@@ -1,4 +1,4 @@
-# pandas-challenge. A report that breaks down the "Heroes of Pymoli" game purchasing data. The analysis will show:
+# Pandas-challenge. A report that breaks down the "Heroes of Pymoli" game purchasing data. The analysis will show:
 *Player Count
 *Purchasing Analysis (Total)
 *Gender Demographics
